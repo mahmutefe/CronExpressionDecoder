@@ -105,9 +105,7 @@ CronParser/
 ### Design Patterns
 
 - **Dependency Injection**: Used for loose coupling and better testability
-- **Builder Pattern**: For constructing CronExpression objects
-- **Strategy Pattern**: For different parsing strategies
-- **Factory Method**: For creating parser instances
+- **Strategy Pattern**: For different parsing strategies (Only one strategy has been implemented)
 
 ## 🧪 Testing
 
