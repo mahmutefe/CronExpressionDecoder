@@ -3,9 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CronExpressionDecoder", "CronExpressionDecoder\CronExpressionDecoder.csproj", "{867B780A-84D2-4857-BA3F-0C950354217F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CronExpressionDecoder", "CronExpressionDecoder\CronExpressionDecoder.csproj", "{867B780A-84D2-4857-BA3F-0C950354217F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CronExpressionDecoder.Tests", "CronExpressionDecoder.Tests\CronExpressionDecoder.Tests.csproj", "{364CB09B-C641-4DAA-B3E7-DAAAB0922A6F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CronExpressionDecoder.Tests", "CronExpressionDecoder.Tests\CronExpressionDecoder.Tests.csproj", "{364CB09B-C641-4DAA-B3E7-DAAAB0922A6F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D93AC5BC-1064-4728-9082-1673D931A840}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
